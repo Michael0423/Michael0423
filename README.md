@@ -5,8 +5,6 @@
 + Use React to build a simple to-do list application. [Here](https://michael0423.github.io/react-to-do-list/)
 + Use Vue to build a pagination list with some pics. [Here](https://michael0423.github.io/pokedex/)
 
-
-![Metrics](https://metrics.lecoq.io/Michael0423?template=classic&introduction=1&base.indepth=false&base.hireable=false&introduction.title=true&config.timezone=Asia%2FTaipei)
 <!--
 **Michael0423/Michael0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
