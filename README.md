@@ -1,5 +1,9 @@
 ## Hi. I'm Michael Shih.👋
 
+### Here are some projects you can check out.
+
++ Use React to build a simple to-do list application. [Here](https://michael0423.github.io/react-to-do-list/)
++ Use Vue to build a pagination list with some pics. [Here](https://michael0423.github.io/pokedex/)
 
 <!--
 **Michael0423/Michael0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
