@@ -2,6 +2,7 @@
 
 ### Here are some projects you can check out.
 
++ A example project in Web3 research [web3-research](https://github.com/Michael0423/web3-research)
 + Use React to build a simple to-do list application. [Here](https://michael0423.github.io/react-to-do-list/)
 + Use Vue to build a pagination list with some pics. [Here](https://michael0423.github.io/pokedex/)
 + A simple shopping site with React. [Here](https://michael0423.github.io/pinkoi-project/)
