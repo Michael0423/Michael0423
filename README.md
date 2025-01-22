@@ -5,7 +5,7 @@
 + A example project in Web3 research [web3-research](https://github.com/Michael0423/web3-research)
 + Use React to build a simple to-do list application. [Here](https://michael0423.github.io/react-to-do-list/)
 + Use Vue to build a pagination list with some pics. [Here](https://michael0423.github.io/pokedex/)
-+ A simple shopping site with React. [Here](https://michael0423.github.io/pinkoi-project/)
++ A simple shopping site with React. [Demo](https://michael0423.github.io/pinkoi-project/) [Source Code](https://github.com/Michael0423/pinkoi-project)
 + Frontend skill practice [50projects50days](https://michael0423.github.io/50projects50days/) (pending)
 
 <!-- ![user's github stats](https://github-readme-stats.vercel.app/api?username=Michael0423&theme=vue-dark)
